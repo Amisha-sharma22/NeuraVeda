@@ -1,0 +1,574 @@
+[
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "This special effect adds movement to the still objects. a. Animation b. Transition c. Slide Show"
+            ]
+        },
+        "answer": [
+            "a"
+        ],
+        "mark": 10
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "It is used to define the speed of the animation. a. Start box b. Reorder Animation c. Duration box"
+            ]
+        },
+        "answer": [
+            "c"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "Which of the following effects determines the entry and exit style of a slide? a. Animation b. Sound c. Transition"
+            ]
+        },
+        "answer": [
+            "c"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "Which of the following quess is not present on the Insert tab? a. Audio b. Rehearse Timings c. Video"
+            ]
+        },
+        "answer": [
+            "b"
+        ],
+        "mark": 1000
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "These two additional tabs appear on the Ribbon after inserting a video clip in a slide. a. Format and Playback b. Insert and Home c. Playback and Flashback"
+            ]
+        },
+        "answer": [
+            "a"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "The ___________________ animation effect determines how the selected object will leave the slide during the slide show."
+            ]
+        },
+        "answer": [
+            "Exit"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "By default, ___________________ ques is selected in the Transition to This Slide group."
+            ]
+        },
+        "answer": [
+            "None"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "The ___________________ ques lets you apply the current slide&#8217;s transition effect to the entire presentation."
+            ]
+        },
+        "answer": [
+            "Apply to All"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "The Video ques is present in the ___________________ group on the Insert tab."
+            ]
+        },
+        "answer": [
+            "Media"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "The ___________________ feature lets you record the runtime for each slide in a presentation."
+            ]
+        },
+        "answer": [
+            "Rehearse Timings"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "You cannot apply multiple animation effects on the same slide. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "Animation effect determines the entry and exit style of a slide. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "Pressing the F4 key begins the slide show. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "Two additional tabs appear on the Ribbon when you insert an audio clip in your slide. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "The Timing group on the Animations tab has the Preview command. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "Transition effects appear only during the slide show. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "The Timeline element advances as the audio plays. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "The Start ques lets the video play on the entire screen. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "The Rehearse Timings feature is present on the Slide Show tab. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "What do you understand by animation? Name the four types of animation effects. ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "Animation effects are special effects that add movement to the still objects, such as graphics, images, text, table and so on. Animation includes audio-visual effects, which make the presentation more engaging and effective. The four types of animation effects are: ➤Entrance ➤Emphasis ➤Exit ➤Motion paths"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "What is slide transition? ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "The slide transition determines the entry and exit style of a slide. It makes a presentation look appealing to the audience."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "Describe the different methods to advance a slide in a presentation. ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "The different methods to advance a slide in a presentation are: ➤On Mouse Click: It advances the slide automatically to next one only on mouse click. ➤After: It advances the slide after a fixed time which can be specified in the spin box."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "What is the role of Audio on My PC and Record Audio quess of the Audio command? ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "Using the Audio on My PC ques, you can add an audio stored on the computer to the slide. The Record Audio button is used to record a voice and insert on the slide."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "What do you think are the benefits of the Rehearse Timings ques? ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "The Rehearse Timings feature lets us record the runtime for each slide in a presentation. This feature plays a presentation at certain speed, which helps in saving time for each slide and animation."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "Which of the following quess is used to play only a brief section of an audio clip? a. Cut Audio b. Trim Audio c. Hide Audio"
+            ]
+        },
+        "answer": [
+            "b"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "Which of the following ques lets you record the runtime for each slide in a presentation? a. Record Timings b. Re-record c. Rehearse Timings"
+            ]
+        },
+        "answer": [
+            "c"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "Which of the following is not an ques to insert a video clip to a slide? a. This device b. Library c. Online Video"
+            ]
+        },
+        "answer": [
+            "b"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "Which of the following animation effects make the selected object move in a particular pattern on the slide? a. Motion paths b. Exit c. Emphasis"
+            ]
+        },
+        "answer": [
+            "a"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Select the correct quess",
+        "question": {
+            "title": "Tick (✓) the correct answers.",
+            "ques": [
+                "The Play button to watch the preview of a video is present in which group of Playback tab? a. Editing b. Bookmarks c. Preview"
+            ]
+        },
+        "answer": [
+            "c"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "Clicking on the _____________ button in the Preview group of the Animation tab shows the preview of animation effects."
+            ]
+        },
+        "answer": [
+            "Preview"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "The _____________ key can be pressed to start the slide show."
+            ]
+        },
+        "answer": [
+            "F5"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "The _____________ ques hides the sound icon during the slide show."
+            ]
+        },
+        "answer": [
+            "Hide During Show"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "_____________ animation effect is used to highlight the selected object to draw the attention of the audience during the slide show."
+            ]
+        },
+        "answer": [
+            "Emphasis"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Fill in the blanks",
+        "question": {
+            "title": "Fill in the blanks.",
+            "ques": [
+                "_____________ ques lets the video play on the entire screen."
+            ]
+        },
+        "answer": [
+            "Play full screen"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "You can apply only one animation effect to a slide. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "When an animation effect is applied to a slide, a star symbol appears next to it in the slide navigation pane. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "On Mouse Click advances the slide automatically to the next one on clicking the mouse. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "You cannot insert a recorded audio on a slide. ______"
+            ]
+        },
+        "answer": [
+            "F"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "True or False",
+        "question": {
+            "title": "Write &#8216;T&#8217; for True and &#8216;F&#8217; for False.",
+            "ques": [
+                "It is possible to change the sequence of the animation effects. ______"
+            ]
+        },
+        "answer": [
+            "T"
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "Write down the steps to insert a recorded audio on a slide. ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "To insert a recorded audio clip, follow these steps: ➤Select the slide where you wish to insert the recorded audio clip. ➤Click on the Audio drop-down arrow in the Media group on the Insert tab. ➤Click on the Record Audio button from the drop-down menu to record your voice. ➤Click on the Record button to begin the recording. ➤Click on the Stop button once you have finished recording. ➤Click on the Play button to preview the recorded audio clip. Click on OK. The recorded audio clip is inserted in the slide."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "Write down the steps to add animation effects to text or object. ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "To add animation effects to the text or an object, follow these steps: ➤Select the slide on which you wish to add animation effects. ➤Select the object you wish to animate. Click on the Animations tab. ➤Click on the More button in the Animation group to explore the available animation effects. A gallery displaying four different kinds of animation effects appears. ➤Select the animation effect from the gallery."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "How can you apply transition effects to a slide in a presentation? ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "To apply transition effects to a slide, follow these steps: ➤In the Slide Navigation pane, select the slide on which a transition is to be applied. ➤Click on the Transitions tab. Click on the More drop-down arrow. A gallery of various transition effects opens. The current slide will display a preview of selected effect."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "Explain the Rehearse Timing feature. Write down the steps to set rehearse timings. ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "The Rehearse Timings feature lets you record the runtime for each slide in a presentation. To set rehearse timings, follow these steps: ➤On the Slide Show tab, click on the Rehearse Timings in the Set Up group. ➤The recording toolbar appears at the top left corner of the screen. The various commands available on this toolbar can be used to record the timing of the presentation."
+        ],
+        "mark": 0
+    },
+    {
+        "type": "Answer the following",
+        "question": {
+            "title": "Answer the following questions.",
+            "ques": [
+                "Write down the steps to add a video clip in a presentation. ___________________________________________________________ ___________________________________________________________ ___________________________________________________________ "
+            ]
+        },
+        "answer": [
+            "To insert a video clip from the computer, follow these steps: ➤On the Insert tab, click on the Video drop-down arrow in the Media group. ➤A drop-down menu appears. Clicking on This Device ques opens the Insert Video dialog box appears. Locate and select the desired video file. ➤Click on Insert ques."
+        ],
+        "mark": 0
+    }
+]
